@@ -13,7 +13,7 @@ EJB é um dos principais componentes da plataforma Java Enterprise Edition (Java
 ### CORBA
 Disponibiliza meios de endereçamento transparentes e exatos, tornando o trabalho do programador da aplicação mais simples. Além disso, CORBA utiliza entidades intermediárias para a comunicação dos seus stubs, ao contrário dos métodos tradicionais, que não possuem uma facilidade deste tipo.
 
-##Message Bus
+## Message Bus
 
 ### ESB
 Baseado na estrutura da mensagem, um ESB utiliza serviços para comunicar o barramento e os componentes adicionados no barramento. Um ESB irá usualmente provê o serviço de transformação de mensagem de um formato para outro, permitindo que os clientes utilizem mensagens de formatos incompatíveis para se comunicar entre cada um deles.
@@ -26,9 +26,13 @@ Similiar ao ESB, mas com aplicações em um host na nuvem de uma rede corporativ
 ### JBoss EAP
 O JBoss EAP 7 foi criado para fornecer uma implantação simplificada e o desempenho completo Java™ EE para aplicativos em qualquer ambiente. Seja no local, virtual ou em clouds privadas, públicas ou híbridas, o JBoss EAP apresenta uma arquitetura modular que só inicia os serviços quando necessário. O baixo volume de memória e os tempos de inicialização extremamente rápidos indicam que o JBoss EAP é ideal para ambientes em que a utilização eficiente dos recursos é prioridade, como é o caso do Red Hat OpenShift.
 
-####Fontes:
+#### Fontes:
 http://www.linhadecodigo.com.br/artigo/2864/o-component-object-model.aspx
+
 https://www.devmedia.com.br/enterprise-javabeans/26402
+
 http://www.inf.ufrgs.br/~johann/sisop2/GVGOgrupo2.htm
+
 https://marcobaccaro.wordpress.com/2010/10/19/arquitetura-message-bus/
+
 https://www.redhat.com/pt-br/technologies/jboss-middleware/application-platform
