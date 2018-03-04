@@ -21,7 +21,7 @@ Baseado na estrutura da mensagem, um ESB utiliza serviços para comunicar o barr
 ### ISB
 Similiar ao ESB, mas com aplicações em um host na nuvem de uma rede corporativa. O core do conceito ISB é de utilizar URIs e políticas para controle de roteamento da lógica das aplicações e serviços na nuvem.
 
-##Service-Oriented Architecture
+## Service-Oriented Architecture
 
 ### JBoss EAP
 O JBoss EAP 7 foi criado para fornecer uma implantação simplificada e o desempenho completo Java™ EE para aplicativos em qualquer ambiente. Seja no local, virtual ou em clouds privadas, públicas ou híbridas, o JBoss EAP apresenta uma arquitetura modular que só inicia os serviços quando necessário. O baixo volume de memória e os tempos de inicialização extremamente rápidos indicam que o JBoss EAP é ideal para ambientes em que a utilização eficiente dos recursos é prioridade, como é o caso do Red Hat OpenShift.
