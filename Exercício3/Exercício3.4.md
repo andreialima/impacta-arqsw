@@ -1,6 +1,6 @@
-#Frameworks
+# Frameworks
 
-##Arquitetura baseada em componentes
+## Arquitetura baseada em componentes
 
 ### COM
 Em essência, o COM é uma forma neutra, independente de linguagem, de se implementar objetos que podem ser utilizados em diferentes ambientes e através de fronteiras entre máquinas (servidores).
